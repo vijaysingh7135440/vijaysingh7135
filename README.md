@@ -3,8 +3,6 @@
 <h3 align="center">A computer science 3rd year Student from JIET group of institute.</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/hello.gif"
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaysingh7135440" alt="vijaysingh7135440" /></a> </p>
-
 - 🔭 I’m currently working on **QR based attendence and machine learning Algorithm**
 
 - 🌱 I’m currently learning **reactjs, redux , Tailwaind CSS**
