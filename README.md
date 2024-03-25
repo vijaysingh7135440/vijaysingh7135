@@ -1,9 +1,9 @@
 ..................>>>>>![logo](https://github.com/vijaysingh7135440/vijaysingh7135/blob/main/vijay%20singh%20banner%20images.jpg)>>>>>................
 # <h1 align="center">Hi 👋, I'm Vijay Singh Chouhan</h1>
-<h3 align="center">A computer science 3rd year Student from JIET group of institute.</h3>
+<h3 align="center">A computer science Final year Student from JIET group of institute.</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/hello.gif"
 
-- 🔭 I’m currently working on **QR based attendence and machine learning Algorithm**
+- 🔭 I’m currently working on **LSTM model and machine learning Algorithm**
 
 - 🌱 I’m currently learning **reactjs, redux , Tailwaind CSS**
 
